@@ -1,10 +1,16 @@
 # OpenDyslexicExtension
 A web extension that allows one to force the open dyslexic font on any website while not overwriting most mainstream iconfonts.
 
+
+
 ## What and why?
 Many dyslexic people use extensions that allow them to force the OpenDyslexic font and make websites easier to read. These extensions have one issue though: Websites that still rely on iconfonts to display icons. These will not work if you force your own font.
+
 In order to combat this I've written a very simple extension that adds a css rule to any opened websites which specifies that all items excluding those that have a class name commonly associated with iconfonts should be displayed using the OpenDyslexic font.
+
 This is something I bodged together in a few minutes to make my work life easier, since reading large amounts of text is very straining for me. It's not feature complete and if I find the time and spoons required I will update it to improve performance and customizability. For the moment though, it's still more useful than most extensions that force the font imo.
+
+
 
 ## Sounds cool, how can I use it?
 Usage is pretty simple, although at the moment you are forced to change some security rules. If this generates enough interest, I might spend the 25$ it costs to submit to the chrome addon store to make it easier. At the moment you will have to follow these steps:
