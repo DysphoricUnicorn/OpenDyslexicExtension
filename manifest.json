@@ -1,0 +1,13 @@
+{
+    "name": "OpenDyslexicWithIconfonts",
+    "version": "1.0",
+    "description": "This addon allows you to force the OpenDyslexic font on all websites while ignoring most icon webfonts",
+    "manifest_version": 2,
+    "content_scripts": [ {
+      "js": ["script.js"],
+      "matches": ["<all_urls>"]
+      }],
+    "permissions" : [
+      "declarativeContent"
+    ]
+  }
