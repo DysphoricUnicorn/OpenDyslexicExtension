@@ -13,7 +13,7 @@ This is something I bodged together in a few minutes to make my work life easier
 
 
 ## Sounds cool, how can I use it?
-Usage is pretty simple, although at the moment you are forced to change some security rules. If this generates enough interest, I might spend the 25$ it costs to submit to the chrome addon store to make it easier. At the moment you will have to follow these steps:
+Usage is pretty simple, although at the moment you are forced to change some security rules. If this attracts enough users, I might spend the 25$ it costs to submit to the chrome addon store to make it easier. At the moment you will have to follow these steps:
 
 1: Install the OpenDyslexic fonts to your computer. (Guides and downloads to do that can be foud here: https://opendyslexic.wordpress.com/faq/)
 2: Navigate to your brower's extension site. This is chrome://extensions on chromium based browsers. I have not tested the extension with firefox yet.
